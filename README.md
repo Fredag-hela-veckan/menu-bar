@@ -4,3 +4,5 @@ Original source: @chrisbautista @codespud
 
 ## Front or top-bar
 HTML/CSS/JS
+
+## More on each bar
